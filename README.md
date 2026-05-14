@@ -64,7 +64,3 @@ The dataset can be used to train machine learning models \(e\.g\., LSTM, Isolati
 ## Contact
 
 For questions, suggestions, or data updates, please contact the repository owner via GitHub Issues or the associated email\.
-
-
-
-> （注：文档部分内容可能由 AI 生成）
